@@ -18,11 +18,14 @@ html, body {
 
 @media (min-width: 600px) {
 	.logo{
-		font-family: 'HelveticaRounded';
-		color: white;
-		font-weight: medium;
 		font-size: 60pt;
 	}
+}
+
+.logo{
+	font-family: 'HelveticaRounded';
+	color: white;
+	font-weight: medium;
 }
 
 .text{
